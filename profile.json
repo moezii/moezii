@@ -11,7 +11,8 @@
   ],
   "research": [
     "Windows internals, privilege escalation, browser sandbox escapes, firmware reversing, and code-execution chains.",
-    "Authentication and WAF bypasses, parser differentials, protocol abuse, and automated reconnaissance. Cloud security: IAM misconfigurations, workload isolation, and exposed services."
+    "Authentication and WAF bypasses, parser differentials, protocol abuse, and automated reconnaissance.",
+    "Cloud IAM misconfigurations and authorization bypasses, service-account privilege escalation, and cross-tenant isolation. Software supply-chain security: package-manager execution-policy bypasses and CI/CD credential exposure."
   ],
   "research_tools": ["Burp Suite", "Nmap", "Wireshark", "ffuf", "Nuclei", "Ghidra", "WinDbg"],
   "stack": [
