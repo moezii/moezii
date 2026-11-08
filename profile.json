@@ -1,0 +1,33 @@
+{
+  "username": "moezii",
+  "timezone": "Europe/Berlin",
+  "identity": "software engineer",
+  "focus": ["real-time systems", "concurrency", "crypto networks", "firmware & control", "offensive research"],
+  "about": [
+    "Software engineer with a systems focus and full-stack experience.",
+    "Interested in low-latency media and control, concurrent event processing, distributed messaging, crypto networks, and parallel state-space search.",
+    "Native clients, backend services, and the protocols between them: scheduling, message ordering, backpressure, and idempotency under load.",
+    "UAV firmware, ground-control interfaces, and live video/telemetry relays with custom input handling. VPNs, secure tunnels, self-hosted networks, and agentic harnesses."
+  ],
+  "research": [
+    "Windows internals, privilege escalation, browser sandbox escapes, firmware reversing, and code-execution chains.",
+    "Authentication bypasses, WAF/parser differentials, protocol abuse, and automated reconnaissance."
+  ],
+  "research_tools": ["Burp Suite", "Nmap", "ffuf", "Nuclei", "Ghidra", "WinDbg"],
+  "stack": [
+    "Rust / Tokio · Go / Gin",
+    "Elixir / Phoenix / OTP",
+    "C++23 / Win32 / D3D11",
+    "Python / FastAPI",
+    "React · Next.js · Expo",
+    "React Native · TypeScript",
+    "",
+    "Broadway · RabbitMQ · AMQP",
+    "Media transport · IPC · RPC",
+    "SQL · NoSQL · vector stores",
+    "Linux · Docker · VMware",
+    "Nginx · AWS / GCP",
+    "Tailscale · tunneling",
+    "MCP · ONNX"
+  ]
+}
