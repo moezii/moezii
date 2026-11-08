@@ -1,13 +1,13 @@
 {
   "username": "moezii",
   "timezone": "Europe/Berlin",
-  "identity": "software engineer",
-  "focus": ["real-time systems", "concurrency", "crypto networks", "firmware & control", "offensive research"],
+  "identity": "systems software engineer",
+  "focus": ["distributed systems", "blockchain", "UAV firmware", "network infrastructure", "agentic systems", "offensive security"],
   "about": [
-    "Software engineer with a systems focus and full-stack experience.",
-    "Interested in low-latency media and control, concurrent event processing, distributed messaging, crypto networks, and parallel state-space search.",
+    "Systems software engineer focused on backend services and cloud infrastructure.",
+    "Interested in distributed systems, low-latency media and control, concurrent event processing, blockchain, and parallel state-space search.",
     "Native clients, backend services, and the protocols between them: scheduling, message ordering, backpressure, and idempotency under load.",
-    "UAV firmware, ground-control interfaces, and live video/telemetry relays with custom input handling. VPNs, secure tunnels, self-hosted networks, and agentic harnesses."
+    "UAV firmware, ground-control interfaces, and live video/telemetry relays with custom input handling. Network infrastructure, VPNs, secure tunnels, self-hosted services, and agentic systems."
   ],
   "research": [
     "Windows internals, privilege escalation, browser sandbox escapes, firmware reversing, and code-execution chains.",

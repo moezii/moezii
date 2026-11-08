@@ -268,7 +268,7 @@ def render(profile, stats, mobile=False, static=False):
     terminal.panel(margin, 16, inner_width if mobile else left_width, status_height, "[1] status")
     terminal.command(margin + 12, 16 + 52, "cat ~/.role", .05, 12.5)
     terminal.text(margin + 12, 16 + 78, profile["identity"], FG, 15, 600, .55)
-    terminal.text(margin + 12, 16 + 100, "systems / full-stack", CYAN, 13.5, delay=.6)
+    terminal.text(margin + 12, 16 + 100, "backend / cloud", CYAN, 13.5, delay=.6)
     terminal.ready(margin + 12, 16 + status_height - 15, .84)
     terminal.close_panel()
 
