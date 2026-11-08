@@ -11,7 +11,7 @@
   ],
   "research": [
     "Windows internals, privilege escalation, browser sandbox escapes, firmware reversing, and code-execution chains.",
-    "Authentication bypasses, WAF/parser differentials, protocol abuse, and automated reconnaissance."
+    "Authentication and WAF bypasses, parser differentials, protocol abuse, and automated reconnaissance. Cloud security: IAM misconfigurations, workload isolation, and exposed services."
   ],
   "research_tools": ["Burp Suite", "Nmap", "Wireshark", "ffuf", "Nuclei", "Ghidra", "WinDbg"],
   "stack": [
@@ -19,8 +19,8 @@
     "Elixir / Phoenix / OTP",
     "C++23 / Win32 / D3D11",
     "Python / FastAPI",
-    "React · Next.js · Expo",
-    "React Native · TypeScript",
+    "React · Next.js · TypeScript",
+    "React Native · Flutter · Expo",
     "",
     "Broadway · RabbitMQ · AMQP",
     "Media transport · IPC · RPC",
