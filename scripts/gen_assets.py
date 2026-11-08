@@ -22,15 +22,15 @@ MONO = "'JetBrains Mono', 'Cascadia Mono', Consolas, 'Liberation Mono', monospac
 BG, FG, MUTED, BORDER = "#303030", "#eeeeee", "#b3b3b3", "#b6b6b6"
 GREEN, BLUE, CYAN, YELLOW, RED = "#b3cf77", "#3b78ae", "#81c2cb", "#e1ca6b", "#e9a3af"
 HIGHLIGHTS = {
-    "systems focus": GREEN, "full-stack": GREEN, "low-latency": CYAN,
-    "concurrent event processing": GREEN, "distributed messaging": GREEN,
-    "crypto networks": YELLOW, "parallel state-space search": GREEN,
+    "backend services": GREEN, "cloud infrastructure": GREEN, "low-latency": CYAN,
+    "concurrent event processing": GREEN, "distributed systems": GREEN,
+    "blockchain": YELLOW, "parallel state-space search": GREEN,
     "scheduling": CYAN, "message ordering": CYAN, "backpressure": CYAN,
-    "idempotency": CYAN, "UAV firmware": GREEN, "firmware": GREEN,
-    "ground-control interfaces": CYAN, "video/telemetry relays": CYAN,
-    "agentic harnesses": YELLOW, "Windows internals": RED,
-    "privilege escalation": RED, "browser sandbox escapes": RED,
-    "code-execution chains": RED, "WAF/parser differentials": YELLOW,
+    "idempotency": CYAN, "Embedded systems": GREEN, "firmware": GREEN,
+    "control interfaces": CYAN, "video/telemetry relays": CYAN,
+    "agentic systems": YELLOW, "Windows internals and APIs": RED,
+    "browser sandbox escapes": RED,
+    "code-execution chains": RED, "WAF bypasses": YELLOW,
     "automated reconnaissance": CYAN,
 }
 
@@ -268,7 +268,7 @@ def render(profile, stats, mobile=False, static=False):
     terminal.panel(margin, 16, inner_width if mobile else left_width, status_height, "[1] status")
     terminal.command(margin + 12, 16 + 52, "cat ~/.role", .05, 12.5)
     terminal.text(margin + 12, 16 + 78, profile["identity"], FG, 15, 600, .55)
-    terminal.text(margin + 12, 16 + 100, "backend / cloud", CYAN, 13.5, delay=.6)
+    terminal.text(margin + 12, 16 + 100, "backend / cloud / mobile", CYAN, 13.5, delay=.6)
     terminal.ready(margin + 12, 16 + status_height - 15, .84)
     terminal.close_panel()
 

@@ -2,17 +2,17 @@
   "username": "moezii",
   "timezone": "Europe/Berlin",
   "identity": "systems software engineer",
-  "focus": ["distributed systems", "blockchain", "UAV firmware", "network infrastructure", "agentic systems", "offensive security"],
+  "focus": ["distributed systems", "blockchain", "embedded & telemetry", "network infrastructure", "agentic systems", "offensive security"],
   "about": [
-    "Systems software engineer focused on backend services and cloud infrastructure.",
+    "Systems software engineer focused on backend services, cloud infrastructure, and mobile applications.",
     "Interested in distributed systems, low-latency media and control, concurrent event processing, blockchain, and parallel state-space search.",
     "Native clients, backend services, and the protocols between them: scheduling, message ordering, backpressure, and idempotency under load.",
-    "UAV firmware, ground-control interfaces, and live video/telemetry relays with custom input handling. Network infrastructure, VPNs, secure tunnels, self-hosted services, and agentic systems."
+    "Embedded systems, control interfaces, and live video/telemetry relays with custom input handling. Network infrastructure, VPNs, secure tunnels, self-hosted services, and agentic systems."
   ],
   "research": [
-    "Windows internals, privilege escalation, browser sandbox escapes, firmware reversing, and code-execution chains.",
+    "Windows internals and APIs, browser sandbox escapes, firmware reversing, and code-execution chains.",
     "Authentication and WAF bypasses, parser differentials, protocol abuse, and automated reconnaissance.",
-    "Cloud IAM misconfigurations and authorization bypasses, service-account privilege escalation, and cross-tenant isolation. Software supply-chain security: package-manager execution-policy bypasses and CI/CD credential exposure."
+    "Cloud IAM misconfigurations, authorization bypasses, and cross-tenant isolation. Software supply-chain security: package-manager execution-policy bypasses and CI/CD credential exposure."
   ],
   "research_tools": ["Burp Suite", "Nmap", "Wireshark", "ffuf", "Nuclei", "Ghidra", "WinDbg"],
   "stack": [
