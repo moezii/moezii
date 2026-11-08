@@ -13,7 +13,7 @@
     "Windows internals, privilege escalation, browser sandbox escapes, firmware reversing, and code-execution chains.",
     "Authentication bypasses, WAF/parser differentials, protocol abuse, and automated reconnaissance."
   ],
-  "research_tools": ["Burp Suite", "Nmap", "ffuf", "Nuclei", "Ghidra", "WinDbg"],
+  "research_tools": ["Burp Suite", "Nmap", "Wireshark", "ffuf", "Nuclei", "Ghidra", "WinDbg"],
   "stack": [
     "Rust / Tokio · Go / Gin",
     "Elixir / Phoenix / OTP",
