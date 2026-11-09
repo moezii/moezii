@@ -1,7 +1,7 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="920" height="1059" viewBox="0 0 920 1059" font-family="&#x27;JetBrains Mono&#x27;, &#x27;Cascadia Mono&#x27;, Consolas, &#x27;Liberation Mono&#x27;, monospace" role="img" aria-labelledby="title desc">
+<svg xmlns="http://www.w3.org/2000/svg" width="920" height="975" viewBox="0 0 920 975" font-family="&#x27;JetBrains Mono&#x27;, &#x27;Cascadia Mono&#x27;, Consolas, &#x27;Liberation Mono&#x27;, monospace" role="img" aria-labelledby="title desc">
 <title id="title">Systems engineering, software, and security</title>
-<desc id="desc">Systems software engineer focused on backend services, cloud infrastructure, and mobile applications. Interested in distributed systems, low-latency media and control, concurrent event processing, blockchain, and parallel state-space search. Native clients, backend services, and the protocols between them: scheduling, message ordering, backpressure, and idempotency under load. Embedded systems, control interfaces, and live video/telemetry relays with custom input handling. Network infrastructure, VPNs, secure tunnels, self-hosted services, and agentic systems. Research interests: Windows internals and APIs, browser sandbox escapes, firmware reversing, and code-execution chains. Authentication and WAF bypasses, parser differentials, protocol abuse, and automated reconnaissance. Cloud IAM misconfigurations, authorization bypasses, and cross-tenant isolation. Software supply-chain security: package-manager execution-policy bypasses and CI/CD credential exposure. Tools: Burp Suite, Nmap, Wireshark, ffuf, Nuclei, Ghidra, WinDbg. Stack: Rust / Tokio · Go / Gin; Elixir / Phoenix / OTP; C++23 / Win32 / D3D11; Python / FastAPI; React · Next.js · TypeScript; React Native · Flutter · Expo; Broadway · RabbitMQ · AMQP; Media transport · IPC · RPC; SQL · NoSQL · vector stores; Linux · Docker · VMware; Nginx · AWS / GCP; VPNs · Overlay Networks · P2P; MCP · ONNX. 803 contributions, current streak 1 days, longest streak 9 days.</desc>
-<defs><clipPath id="command-1"><rect x="44" y="55.5" width="83.5" height="17.5" class="typed" style="animation:type 0.385s steps(11,end) 0.05s both"/></clipPath><clipPath id="command-2"><rect x="44" y="207.5" width="106.0" height="17.5" class="typed" style="animation:type 0.490s steps(14,end) 0.1s both"/></clipPath><clipPath id="command-3"><rect x="335" y="55" width="110.2" height="18" class="typed" style="animation:type 0.490s steps(14,end) 0.2s both"/></clipPath><clipPath id="command-4"><rect x="335" y="490" width="118.0" height="18" class="typed" style="animation:type 0.525s steps(15,end) 0.3s both"/></clipPath><clipPath id="command-5"><rect x="44" y="443.5" width="106.0" height="17.5" class="typed" style="animation:type 0.490s steps(14,end) 0.15s both"/></clipPath><clipPath id="command-6"><rect x="45" y="872" width="110.2" height="18" class="typed" style="animation:type 0.490s steps(14,end) 0.4s both"/></clipPath></defs>
+<desc id="desc">Systems software engineer: backend services, cloud infrastructure, and mobile apps. Distributed systems, low-latency media/control, concurrent event processing, blockchain, and parallel state-space search. Native clients, backend services, and protocols: scheduling, message ordering, backpressure, and idempotency under load. Embedded systems, control interfaces, live video/telemetry relays, custom input handling. Network infrastructure, VPNs, secure tunnels, self-hosted services, agentic systems. Research interests: Windows internals and APIs, browser sandbox escapes, firmware reversing, and code-execution chains. Authentication and WAF bypasses, parser differentials, protocol abuse, and automated reconnaissance. Cloud IAM misconfigurations, authorization bypasses, cross-tenant isolation. Software supply chain: package-manager execution-policy bypasses and CI/CD credential exposure. Tools: Burp Suite, Nmap, Wireshark, ffuf, Nuclei, Ghidra, WinDbg. Stack: Rust / Tokio · Go / Gin; Elixir / Phoenix / OTP; C++23 / Win32 / D3D11; Python / FastAPI · MCP · ONNX; React · Next.js · TypeScript; React Native · Flutter · Expo; Broadway · RabbitMQ · AMQP; Media transport · IPC · RPC; SQL · NoSQL · vector stores; Linux · Docker · VMware; Nginx · AWS / GCP; VPNs · Overlay Networks · P2P. 803 contributions, current streak 1 days, longest streak 9 days.</desc>
+<defs><clipPath id="command-1"><rect x="44" y="55.5" width="83.5" height="17.5" class="typed" style="animation:type 0.385s steps(11,end) 0.05s both"/></clipPath><clipPath id="command-2"><rect x="44" y="207.5" width="106.0" height="17.5" class="typed" style="animation:type 0.490s steps(14,end) 0.1s both"/></clipPath><clipPath id="command-3"><rect x="335" y="55" width="110.2" height="18" class="typed" style="animation:type 0.490s steps(14,end) 0.2s both"/></clipPath><clipPath id="command-4"><rect x="335" y="427" width="118.0" height="18" class="typed" style="animation:type 0.525s steps(15,end) 0.3s both"/></clipPath><clipPath id="command-5"><rect x="44" y="443.5" width="106.0" height="17.5" class="typed" style="animation:type 0.490s steps(14,end) 0.15s both"/></clipPath><clipPath id="command-6"><rect x="45" y="788" width="110.2" height="18" class="typed" style="animation:type 0.490s steps(14,end) 0.4s both"/></clipPath></defs>
 <style>
           .reveal { animation: reveal .18s ease-out both; }
           @keyframes reveal { from { opacity: 0; transform: translateY(2px); } to { opacity: 1; transform: translateY(0); } }
@@ -22,7 +22,7 @@
 @keyframes track-command-4 { from { transform:translateX(0); } to { transform:translateX(117.0px); } }
 @keyframes track-command-5 { from { transform:translateX(0); } to { transform:translateX(105.0px); } }
 @keyframes track-command-6 { from { transform:translateX(0); } to { transform:translateX(109.2px); } }</style>
-<rect width="920" height="1059" fill="#303030"/>
+<rect width="920" height="975" fill="#303030"/>
 <g data-pane="[1] status" data-bounds="12 16 274 136">
 <rect x="12" y="16" width="274" height="136" rx="4" fill="#303030" stroke="#b6b6b6" stroke-width="1.2"/>
 <path d="M16 17H282Q285 17 285 20V44H13V20Q13 17 16 17Z" fill="#262626"/>
@@ -64,8 +64,8 @@
 <rect class="caret" x="59" y="362" width="7" height="13" fill="#b3cf77" style="animation-delay:0.03s" aria-hidden="true"/>
 </g>
 </g>
-<g data-pane="[0] profile" data-bounds="302 16 606 419">
-<rect x="302" y="16" width="606" height="419" rx="4" fill="#303030" stroke="#b6b6b6" stroke-width="1.2"/>
+<g data-pane="[0] profile" data-bounds="302 16 606 356">
+<rect x="302" y="16" width="606" height="356" rx="4" fill="#303030" stroke="#b6b6b6" stroke-width="1.2"/>
 <path d="M306 17H904Q907 17 907 20V44H303V20Q303 17 306 17Z" fill="#262626"/>
 <path d="M303 44.5H907" stroke="#b6b6b6" stroke-opacity=".6"/>
 <text x="313" y="35" fill="#81c2cb" font-size="12" font-weight="600" xml:space="preserve">&gt;_</text>
@@ -74,52 +74,48 @@
 <text x="315" y="68" fill="#b3cf77" font-size="13" font-weight="600" xml:space="preserve">❯</text>
 <text x="335" y="68" fill="#eeeeee" font-size="13" font-weight="400" xml:space="preserve" clip-path="url(#command-3)" textLength="109.2" lengthAdjust="spacingAndGlyphs">cat profile.md</text>
 <g class="typing-cursor" opacity="0" style="animation:cursor-life 0.490s linear 0.2s"><rect x="335" y="57" width="7" height="14" fill="#b3cf77" style="animation:track-command-3 0.490s steps(14,end) 0.2s both"/></g>
-<text x="316" y="95" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:0.770s"><tspan fill="#eeeeee">Systems software engineer focused on </tspan><tspan fill="#b3cf77">backend services</tspan><tspan fill="#eeeeee">, </tspan><tspan fill="#b3cf77">cloud</tspan></text>
-<text x="316" y="116" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:0.805s"><tspan fill="#b3cf77">infrastructure</tspan><tspan fill="#eeeeee">, and mobile applications.</tspan></text>
-<text x="316" y="158" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:0.875s"><tspan fill="#eeeeee">Interested in </tspan><tspan fill="#b3cf77">distributed systems</tspan><tspan fill="#eeeeee">, </tspan><tspan fill="#81c2cb">low-latency</tspan><tspan fill="#eeeeee"> media and</tspan></text>
-<text x="316" y="179" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:0.910s"><tspan fill="#eeeeee">control, </tspan><tspan fill="#b3cf77">concurrent event processing</tspan><tspan fill="#eeeeee">, </tspan><tspan fill="#e1ca6b">blockchain</tspan><tspan fill="#eeeeee">, and </tspan><tspan fill="#b3cf77">parallel</tspan></text>
-<text x="316" y="200" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:0.945s"><tspan fill="#b3cf77">state-space search</tspan><tspan fill="#eeeeee">.</tspan></text>
-<text x="316" y="242" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:1.015s"><tspan fill="#eeeeee">Native clients, </tspan><tspan fill="#b3cf77">backend services</tspan><tspan fill="#eeeeee">, and the protocols between</tspan></text>
-<text x="316" y="263" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:1.050s"><tspan fill="#eeeeee">them: </tspan><tspan fill="#81c2cb">scheduling</tspan><tspan fill="#eeeeee">, </tspan><tspan fill="#81c2cb">message ordering</tspan><tspan fill="#eeeeee">, </tspan><tspan fill="#81c2cb">backpressure</tspan><tspan fill="#eeeeee">, and</tspan></text>
-<text x="316" y="284" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:1.085s"><tspan fill="#81c2cb">idempotency</tspan><tspan fill="#eeeeee"> under load.</tspan></text>
-<text x="316" y="326" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:1.155s"><tspan fill="#b3cf77">Embedded systems</tspan><tspan fill="#eeeeee">, </tspan><tspan fill="#81c2cb">control interfaces</tspan><tspan fill="#eeeeee">, and live </tspan><tspan fill="#81c2cb">video/telemetry</tspan></text>
-<text x="316" y="347" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:1.190s"><tspan fill="#81c2cb">relays</tspan><tspan fill="#eeeeee"> with custom input handling. Network infrastructure,</tspan></text>
-<text x="316" y="368" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:1.225s"><tspan fill="#eeeeee">VPNs, secure tunnels, self-hosted services, and </tspan><tspan fill="#e1ca6b">agentic</tspan></text>
-<text x="316" y="389" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:1.260s"><tspan fill="#e1ca6b">systems</tspan><tspan fill="#eeeeee">.</tspan></text>
+<text x="316" y="95" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:0.770s"><tspan fill="#eeeeee">Systems software engineer: </tspan><tspan fill="#b3cf77">backend services</tspan><tspan fill="#eeeeee">, </tspan><tspan fill="#b3cf77">cloud</tspan></text>
+<text x="316" y="116" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:0.805s"><tspan fill="#b3cf77">infrastructure</tspan><tspan fill="#eeeeee">, and mobile apps.</tspan></text>
+<text x="316" y="158" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:0.875s"><tspan fill="#eeeeee">Distributed systems, </tspan><tspan fill="#81c2cb">low-latency</tspan><tspan fill="#eeeeee"> media/control, </tspan><tspan fill="#b3cf77">concurrent</tspan></text>
+<text x="316" y="179" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:0.910s"><tspan fill="#b3cf77">event processing</tspan><tspan fill="#eeeeee">, </tspan><tspan fill="#e1ca6b">blockchain</tspan><tspan fill="#eeeeee">, and </tspan><tspan fill="#b3cf77">parallel state-space search</tspan><tspan fill="#eeeeee">.</tspan></text>
+<text x="316" y="221" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:0.980s"><tspan fill="#eeeeee">Native clients, </tspan><tspan fill="#b3cf77">backend services</tspan><tspan fill="#eeeeee">, and protocols: </tspan><tspan fill="#81c2cb">scheduling</tspan><tspan fill="#eeeeee">,</tspan></text>
+<text x="316" y="242" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:1.015s"><tspan fill="#81c2cb">message ordering</tspan><tspan fill="#eeeeee">, </tspan><tspan fill="#81c2cb">backpressure</tspan><tspan fill="#eeeeee">, and </tspan><tspan fill="#81c2cb">idempotency</tspan><tspan fill="#eeeeee"> under load.</tspan></text>
+<text x="316" y="284" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:1.085s"><tspan fill="#b3cf77">Embedded systems</tspan><tspan fill="#eeeeee">, </tspan><tspan fill="#81c2cb">control interfaces</tspan><tspan fill="#eeeeee">, live </tspan><tspan fill="#81c2cb">video/telemetry</tspan></text>
+<text x="316" y="305" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:1.120s"><tspan fill="#81c2cb">relays</tspan><tspan fill="#eeeeee">, custom input handling. Network infrastructure, VPNs,</tspan></text>
+<text x="316" y="326" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:1.155s"><tspan fill="#eeeeee">secure tunnels, self-hosted services, </tspan><tspan fill="#e1ca6b">agentic systems</tspan><tspan fill="#eeeeee">.</tspan></text>
 <g class="reveal" style="animation-delay:1.5s">
-<text x="315" y="420" fill="#81c2cb" font-size="12.5" font-weight="400" xml:space="preserve">~</text>
-<text x="332" y="420" fill="#b3cf77" font-size="12.5" font-weight="600" xml:space="preserve">❯</text>
-<rect class="caret" x="350" y="409" width="7" height="13" fill="#b3b3b3" style="animation-delay:0.50s" aria-hidden="true"/>
+<text x="315" y="357" fill="#81c2cb" font-size="12.5" font-weight="400" xml:space="preserve">~</text>
+<text x="332" y="357" fill="#b3cf77" font-size="12.5" font-weight="600" xml:space="preserve">❯</text>
+<rect class="caret" x="350" y="346" width="7" height="13" fill="#b3b3b3" style="animation-delay:0.50s" aria-hidden="true"/>
 </g>
 </g>
-<g data-pane="[4] research" data-bounds="302 451 606 366">
-<rect x="302" y="451" width="606" height="366" rx="4" fill="#303030" stroke="#b6b6b6" stroke-width="1.2"/>
-<path d="M306 452H904Q907 452 907 455V479H303V455Q303 452 306 452Z" fill="#262626"/>
-<path d="M303 479.5H907" stroke="#b6b6b6" stroke-opacity=".6"/>
-<text x="313" y="470" fill="#81c2cb" font-size="12" font-weight="600" xml:space="preserve">&gt;_</text>
-<text x="339" y="470" fill="#eeeeee" font-size="12" font-weight="600" xml:space="preserve">[4] research</text>
-<g aria-hidden="true" stroke="#b3b3b3" stroke-width="1" fill="none"><path d="M859 468h7"/><rect x="874" y="462" width="6" height="6"/><path d="M890 462l6 6m0 -6l-6 6"/></g>
-<text x="315" y="503" fill="#b3cf77" font-size="13" font-weight="600" xml:space="preserve">❯</text>
-<text x="335" y="503" fill="#eeeeee" font-size="13" font-weight="400" xml:space="preserve" clip-path="url(#command-4)" textLength="117.0" lengthAdjust="spacingAndGlyphs">cat research.md</text>
-<g class="typing-cursor" opacity="0" style="animation:cursor-life 0.525s linear 0.3s"><rect x="335" y="492" width="7" height="14" fill="#b3cf77" style="animation:track-command-4 0.525s steps(15,end) 0.3s both"/></g>
-<text x="316" y="530" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:0.870s"><tspan fill="#e9a3af">Windows internals and APIs</tspan><tspan fill="#eeeeee">, </tspan><tspan fill="#e9a3af">browser sandbox escapes</tspan><tspan fill="#eeeeee">, </tspan><tspan fill="#b3cf77">firmware</tspan></text>
-<text x="316" y="551" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:0.905s"><tspan fill="#eeeeee">reversing, and </tspan><tspan fill="#e9a3af">code-execution chains</tspan><tspan fill="#eeeeee">.</tspan></text>
-<text x="316" y="593" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:0.975s"><tspan fill="#eeeeee">Authentication and </tspan><tspan fill="#e1ca6b">WAF bypasses</tspan><tspan fill="#eeeeee">, parser differentials, protocol</tspan></text>
-<text x="316" y="614" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:1.010s"><tspan fill="#eeeeee">abuse, and </tspan><tspan fill="#81c2cb">automated reconnaissance</tspan><tspan fill="#eeeeee">.</tspan></text>
-<text x="316" y="656" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:1.080s"><tspan fill="#eeeeee">Cloud IAM misconfigurations, authorization bypasses, and</tspan></text>
-<text x="316" y="677" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:1.115s"><tspan fill="#eeeeee">cross-tenant isolation. Software supply-chain security:</tspan></text>
-<text x="316" y="698" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:1.150s"><tspan fill="#eeeeee">package-manager execution-policy bypasses and CI/CD credential</tspan></text>
-<text x="316" y="719" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:1.185s"><tspan fill="#eeeeee">exposure.</tspan></text>
-<text x="315" y="748" fill="#e1ca6b" font-size="12.5" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:1.250s">Burp Suite · Nmap · Wireshark · ffuf</text>
-<text x="315" y="769" fill="#e1ca6b" font-size="12.5" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:1.300s">Nuclei · Ghidra · WinDbg</text>
+<g data-pane="[4] research" data-bounds="302 388 606 345">
+<rect x="302" y="388" width="606" height="345" rx="4" fill="#303030" stroke="#b6b6b6" stroke-width="1.2"/>
+<path d="M306 389H904Q907 389 907 392V416H303V392Q303 389 306 389Z" fill="#262626"/>
+<path d="M303 416.5H907" stroke="#b6b6b6" stroke-opacity=".6"/>
+<text x="313" y="407" fill="#81c2cb" font-size="12" font-weight="600" xml:space="preserve">&gt;_</text>
+<text x="339" y="407" fill="#eeeeee" font-size="12" font-weight="600" xml:space="preserve">[4] research</text>
+<g aria-hidden="true" stroke="#b3b3b3" stroke-width="1" fill="none"><path d="M859 405h7"/><rect x="874" y="399" width="6" height="6"/><path d="M890 399l6 6m0 -6l-6 6"/></g>
+<text x="315" y="440" fill="#b3cf77" font-size="13" font-weight="600" xml:space="preserve">❯</text>
+<text x="335" y="440" fill="#eeeeee" font-size="13" font-weight="400" xml:space="preserve" clip-path="url(#command-4)" textLength="117.0" lengthAdjust="spacingAndGlyphs">cat research.md</text>
+<g class="typing-cursor" opacity="0" style="animation:cursor-life 0.525s linear 0.3s"><rect x="335" y="429" width="7" height="14" fill="#b3cf77" style="animation:track-command-4 0.525s steps(15,end) 0.3s both"/></g>
+<text x="316" y="467" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:0.870s"><tspan fill="#e9a3af">Windows internals and APIs</tspan><tspan fill="#eeeeee">, </tspan><tspan fill="#e9a3af">browser sandbox escapes</tspan><tspan fill="#eeeeee">, </tspan><tspan fill="#b3cf77">firmware</tspan></text>
+<text x="316" y="488" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:0.905s"><tspan fill="#eeeeee">reversing, and </tspan><tspan fill="#e9a3af">code-execution chains</tspan><tspan fill="#eeeeee">.</tspan></text>
+<text x="316" y="530" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:0.975s"><tspan fill="#eeeeee">Authentication and </tspan><tspan fill="#e1ca6b">WAF bypasses</tspan><tspan fill="#eeeeee">, parser differentials, protocol</tspan></text>
+<text x="316" y="551" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:1.010s"><tspan fill="#eeeeee">abuse, and </tspan><tspan fill="#81c2cb">automated reconnaissance</tspan><tspan fill="#eeeeee">.</tspan></text>
+<text x="316" y="593" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:1.080s"><tspan fill="#eeeeee">Cloud IAM misconfigurations, authorization bypasses,</tspan></text>
+<text x="316" y="614" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:1.115s"><tspan fill="#eeeeee">cross-tenant isolation. Software supply chain: package-manager</tspan></text>
+<text x="316" y="635" font-size="15" xml:space="preserve" class="reveal" style="animation-delay:1.150s"><tspan fill="#eeeeee">execution-policy bypasses and CI/CD credential exposure.</tspan></text>
+<text x="315" y="664" fill="#e1ca6b" font-size="12.5" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:1.250s">Burp Suite · Nmap · Wireshark · ffuf</text>
+<text x="315" y="685" fill="#e1ca6b" font-size="12.5" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:1.300s">Nuclei · Ghidra · WinDbg</text>
 <g class="reveal" style="animation-delay:1.58s">
-<text x="315" y="802" fill="#81c2cb" font-size="12.5" font-weight="400" xml:space="preserve">~</text>
-<text x="332" y="802" fill="#b3cf77" font-size="12.5" font-weight="600" xml:space="preserve">❯</text>
-<rect class="caret" x="350" y="791" width="7" height="13" fill="#b3b3b3" style="animation-delay:0.58s" aria-hidden="true"/>
+<text x="315" y="718" fill="#81c2cb" font-size="12.5" font-weight="400" xml:space="preserve">~</text>
+<text x="332" y="718" fill="#b3cf77" font-size="12.5" font-weight="600" xml:space="preserve">❯</text>
+<rect class="caret" x="350" y="707" width="7" height="13" fill="#b3b3b3" style="animation-delay:0.58s" aria-hidden="true"/>
 </g>
 </g>
-<g data-pane="[3] stack" data-bounds="12 404 274 344">
-<rect x="12" y="404" width="274" height="344" rx="4" fill="#303030" stroke="#b6b6b6" stroke-width="1.2"/>
+<g data-pane="[3] stack" data-bounds="12 404 274 308">
+<rect x="12" y="404" width="274" height="308" rx="4" fill="#303030" stroke="#b6b6b6" stroke-width="1.2"/>
 <path d="M16 405H282Q285 405 285 408V432H13V408Q13 405 16 405Z" fill="#262626"/>
 <path d="M13 432.5H285" stroke="#b6b6b6" stroke-opacity=".6"/>
 <text x="23" y="423" fill="#81c2cb" font-size="12" font-weight="600" xml:space="preserve">&gt;_</text>
@@ -131,49 +127,48 @@
 <text x="24" y="482" fill="#b3cf77" font-size="13" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:0.700s">Rust / Tokio · Go / Gin</text>
 <text x="24" y="500" fill="#b3cf77" font-size="13" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:0.725s">Elixir / Phoenix / OTP</text>
 <text x="24" y="518" fill="#b3cf77" font-size="13" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:0.750s">C++23 / Win32 / D3D11</text>
-<text x="24" y="536" fill="#b3cf77" font-size="13" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:0.775s">Python / FastAPI</text>
+<text x="24" y="536" fill="#b3cf77" font-size="13" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:0.775s">Python / FastAPI · MCP · ONNX</text>
 <text x="24" y="554" fill="#b3cf77" font-size="13" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:0.800s">React · Next.js · TypeScript</text>
 <text x="24" y="572" fill="#b3cf77" font-size="13" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:0.825s">React Native · Flutter · Expo</text>
-<text x="24" y="608" fill="#eeeeee" font-size="13" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:0.875s">Broadway · RabbitMQ · AMQP</text>
-<text x="24" y="626" fill="#eeeeee" font-size="13" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:0.900s">Media transport · IPC · RPC</text>
-<text x="24" y="644" fill="#eeeeee" font-size="13" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:0.925s">SQL · NoSQL · vector stores</text>
-<text x="24" y="662" fill="#eeeeee" font-size="13" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:0.950s">Linux · Docker · VMware</text>
-<text x="24" y="680" fill="#eeeeee" font-size="13" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:0.975s">Nginx · AWS / GCP</text>
-<text x="24" y="698" fill="#eeeeee" font-size="13" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:1.000s">VPNs · Overlay Networks · P2P</text>
-<text x="24" y="716" fill="#eeeeee" font-size="13" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:1.025s">MCP · ONNX</text>
+<text x="24" y="590" fill="#eeeeee" font-size="13" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:0.850s">Broadway · RabbitMQ · AMQP</text>
+<text x="24" y="608" fill="#eeeeee" font-size="13" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:0.875s">Media transport · IPC · RPC</text>
+<text x="24" y="626" fill="#eeeeee" font-size="13" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:0.900s">SQL · NoSQL · vector stores</text>
+<text x="24" y="644" fill="#eeeeee" font-size="13" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:0.925s">Linux · Docker · VMware</text>
+<text x="24" y="662" fill="#eeeeee" font-size="13" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:0.950s">Nginx · AWS / GCP</text>
+<text x="24" y="680" fill="#eeeeee" font-size="13" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:0.975s">VPNs · Overlay Networks · P2P</text>
 <g class="reveal" style="animation-delay:1.3s">
-<text x="24" y="733" fill="#81c2cb" font-size="12.5" font-weight="400" xml:space="preserve">~</text>
-<text x="41" y="733" fill="#b3cf77" font-size="12.5" font-weight="600" xml:space="preserve">❯</text>
-<rect class="caret" x="59" y="722" width="7" height="13" fill="#b3b3b3" style="animation-delay:0.30s" aria-hidden="true"/>
+<text x="24" y="697" fill="#81c2cb" font-size="12.5" font-weight="400" xml:space="preserve">~</text>
+<text x="41" y="697" fill="#b3cf77" font-size="12.5" font-weight="600" xml:space="preserve">❯</text>
+<rect class="caret" x="59" y="686" width="7" height="13" fill="#b3b3b3" style="animation-delay:0.30s" aria-hidden="true"/>
 </g>
 </g>
-<g data-pane="[5] activity" data-bounds="12 833 896 188">
-<rect x="12" y="833" width="896" height="188" rx="4" fill="#303030" stroke="#b6b6b6" stroke-width="1.2"/>
-<path d="M16 834H904Q907 834 907 837V861H13V837Q13 834 16 834Z" fill="#262626"/>
-<path d="M13 861.5H907" stroke="#b6b6b6" stroke-opacity=".6"/>
-<text x="23" y="852" fill="#81c2cb" font-size="12" font-weight="600" xml:space="preserve">&gt;_</text>
-<text x="49" y="852" fill="#eeeeee" font-size="12" font-weight="600" xml:space="preserve">[5] activity</text>
-<g aria-hidden="true" stroke="#b3b3b3" stroke-width="1" fill="none"><path d="M859 850h7"/><rect x="874" y="844" width="6" height="6"/><path d="M890 844l6 6m0 -6l-6 6"/></g>
-<text x="25" y="885" fill="#b3cf77" font-size="13" font-weight="600" xml:space="preserve">❯</text>
-<text x="45" y="885" fill="#eeeeee" font-size="13" font-weight="400" xml:space="preserve" clip-path="url(#command-6)" textLength="109.2" lengthAdjust="spacingAndGlyphs">streak --daily</text>
-<g class="typing-cursor" opacity="0" style="animation:cursor-life 0.490s linear 0.4s"><rect x="45" y="874" width="7" height="14" fill="#b3cf77" style="animation:track-command-6 0.490s steps(14,end) 0.4s both"/></g>
-<text x="161.33333333333334" y="926" fill="#b3cf77" font-size="27" font-weight="600" xml:space="preserve" class="reveal" style="animation-delay:1.400s" text-anchor="middle">803</text>
-<text x="161.33333333333334" y="950" fill="#eeeeee" font-size="12.5" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:1.480s" text-anchor="middle">contributions</text>
-<text x="161.33333333333334" y="971" fill="#b3b3b3" font-size="11.5" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:1.550s" text-anchor="middle">since 17 Nov 2023</text>
-<path d="M310.6666666666667 901v72" stroke="#5b5b5b"/>
-<text x="460.0" y="926" fill="#b3cf77" font-size="27" font-weight="600" xml:space="preserve" class="reveal" style="animation-delay:1.480s" text-anchor="middle">1</text>
-<text x="460.0" y="950" fill="#eeeeee" font-size="12.5" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:1.560s" text-anchor="middle">current streak / days</text>
-<text x="460.0" y="971" fill="#b3b3b3" font-size="11.5" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:1.630s" text-anchor="middle">8 Nov 2026</text>
-<path d="M609.3333333333334 901v72" stroke="#5b5b5b"/>
-<text x="758.6666666666667" y="926" fill="#b3cf77" font-size="27" font-weight="600" xml:space="preserve" class="reveal" style="animation-delay:1.560s" text-anchor="middle">9</text>
-<text x="758.6666666666667" y="950" fill="#eeeeee" font-size="12.5" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:1.640s" text-anchor="middle">longest streak / days</text>
-<text x="758.6666666666667" y="971" fill="#b3b3b3" font-size="11.5" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:1.710s" text-anchor="middle">13–21 Aug 2026</text>
-<text x="896" y="1009" fill="#b3b3b3" font-size="10.5" font-weight="400" xml:space="preserve" text-anchor="end">updated 08 Nov 2026</text>
+<g data-pane="[5] activity" data-bounds="12 749 896 188">
+<rect x="12" y="749" width="896" height="188" rx="4" fill="#303030" stroke="#b6b6b6" stroke-width="1.2"/>
+<path d="M16 750H904Q907 750 907 753V777H13V753Q13 750 16 750Z" fill="#262626"/>
+<path d="M13 777.5H907" stroke="#b6b6b6" stroke-opacity=".6"/>
+<text x="23" y="768" fill="#81c2cb" font-size="12" font-weight="600" xml:space="preserve">&gt;_</text>
+<text x="49" y="768" fill="#eeeeee" font-size="12" font-weight="600" xml:space="preserve">[5] activity</text>
+<g aria-hidden="true" stroke="#b3b3b3" stroke-width="1" fill="none"><path d="M859 766h7"/><rect x="874" y="760" width="6" height="6"/><path d="M890 760l6 6m0 -6l-6 6"/></g>
+<text x="25" y="801" fill="#b3cf77" font-size="13" font-weight="600" xml:space="preserve">❯</text>
+<text x="45" y="801" fill="#eeeeee" font-size="13" font-weight="400" xml:space="preserve" clip-path="url(#command-6)" textLength="109.2" lengthAdjust="spacingAndGlyphs">streak --daily</text>
+<g class="typing-cursor" opacity="0" style="animation:cursor-life 0.490s linear 0.4s"><rect x="45" y="790" width="7" height="14" fill="#b3cf77" style="animation:track-command-6 0.490s steps(14,end) 0.4s both"/></g>
+<text x="161.33333333333334" y="842" fill="#b3cf77" font-size="27" font-weight="600" xml:space="preserve" class="reveal" style="animation-delay:1.400s" text-anchor="middle">803</text>
+<text x="161.33333333333334" y="866" fill="#eeeeee" font-size="12.5" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:1.480s" text-anchor="middle">contributions</text>
+<text x="161.33333333333334" y="887" fill="#b3b3b3" font-size="11.5" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:1.550s" text-anchor="middle">since 17 Nov 2023</text>
+<path d="M310.6666666666667 817v72" stroke="#5b5b5b"/>
+<text x="460.0" y="842" fill="#b3cf77" font-size="27" font-weight="600" xml:space="preserve" class="reveal" style="animation-delay:1.480s" text-anchor="middle">1</text>
+<text x="460.0" y="866" fill="#eeeeee" font-size="12.5" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:1.560s" text-anchor="middle">current streak / days</text>
+<text x="460.0" y="887" fill="#b3b3b3" font-size="11.5" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:1.630s" text-anchor="middle">8 Nov 2026</text>
+<path d="M609.3333333333334 817v72" stroke="#5b5b5b"/>
+<text x="758.6666666666667" y="842" fill="#b3cf77" font-size="27" font-weight="600" xml:space="preserve" class="reveal" style="animation-delay:1.560s" text-anchor="middle">9</text>
+<text x="758.6666666666667" y="866" fill="#eeeeee" font-size="12.5" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:1.640s" text-anchor="middle">longest streak / days</text>
+<text x="758.6666666666667" y="887" fill="#b3b3b3" font-size="11.5" font-weight="400" xml:space="preserve" class="reveal" style="animation-delay:1.710s" text-anchor="middle">13–21 Aug 2026</text>
+<text x="896" y="925" fill="#b3b3b3" font-size="10.5" font-weight="400" xml:space="preserve" text-anchor="end">updated 08 Nov 2026</text>
 <g class="reveal" style="animation-delay:1.95s">
-<text x="25" y="1006" fill="#81c2cb" font-size="12.5" font-weight="400" xml:space="preserve">~</text>
-<text x="42" y="1006" fill="#b3cf77" font-size="12.5" font-weight="600" xml:space="preserve">❯</text>
-<rect class="caret" x="60" y="995" width="7" height="13" fill="#b3b3b3" style="animation-delay:0.95s" aria-hidden="true"/>
+<text x="25" y="922" fill="#81c2cb" font-size="12.5" font-weight="400" xml:space="preserve">~</text>
+<text x="42" y="922" fill="#b3cf77" font-size="12.5" font-weight="600" xml:space="preserve">❯</text>
+<rect class="caret" x="60" y="911" width="7" height="13" fill="#b3b3b3" style="animation-delay:0.95s" aria-hidden="true"/>
 </g>
 </g>
-<text x="14" y="1047" fill="#81c2cb" font-size="11" font-weight="400" xml:space="preserve">[1] Profile   [2] Focus   [3] Stack   [4] Research   [5] Activity</text>
+<text x="14" y="963" fill="#81c2cb" font-size="11" font-weight="400" xml:space="preserve">[1] Profile   [2] Focus   [3] Stack   [4] Research   [5] Activity</text>
 </svg>

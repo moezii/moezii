@@ -4,31 +4,29 @@
   "identity": "systems software engineer",
   "focus": ["distributed systems", "blockchain", "embedded & telemetry", "network infrastructure", "agentic systems", "offensive security"],
   "about": [
-    "Systems software engineer focused on backend services, cloud infrastructure, and mobile applications.",
-    "Interested in distributed systems, low-latency media and control, concurrent event processing, blockchain, and parallel state-space search.",
-    "Native clients, backend services, and the protocols between them: scheduling, message ordering, backpressure, and idempotency under load.",
-    "Embedded systems, control interfaces, and live video/telemetry relays with custom input handling. Network infrastructure, VPNs, secure tunnels, self-hosted services, and agentic systems."
+    "Systems software engineer: backend services, cloud infrastructure, and mobile apps.",
+    "Distributed systems, low-latency media/control, concurrent event processing, blockchain, and parallel state-space search.",
+    "Native clients, backend services, and protocols: scheduling, message ordering, backpressure, and idempotency under load.",
+    "Embedded systems, control interfaces, live video/telemetry relays, custom input handling. Network infrastructure, VPNs, secure tunnels, self-hosted services, agentic systems."
   ],
   "research": [
     "Windows internals and APIs, browser sandbox escapes, firmware reversing, and code-execution chains.",
     "Authentication and WAF bypasses, parser differentials, protocol abuse, and automated reconnaissance.",
-    "Cloud IAM misconfigurations, authorization bypasses, and cross-tenant isolation. Software supply-chain security: package-manager execution-policy bypasses and CI/CD credential exposure."
+    "Cloud IAM misconfigurations, authorization bypasses, cross-tenant isolation. Software supply chain: package-manager execution-policy bypasses and CI/CD credential exposure."
   ],
   "research_tools": ["Burp Suite", "Nmap", "Wireshark", "ffuf", "Nuclei", "Ghidra", "WinDbg"],
   "stack": [
     "Rust / Tokio · Go / Gin",
     "Elixir / Phoenix / OTP",
     "C++23 / Win32 / D3D11",
-    "Python / FastAPI",
+    "Python / FastAPI · MCP · ONNX",
     "React · Next.js · TypeScript",
     "React Native · Flutter · Expo",
-    "",
     "Broadway · RabbitMQ · AMQP",
     "Media transport · IPC · RPC",
     "SQL · NoSQL · vector stores",
     "Linux · Docker · VMware",
     "Nginx · AWS / GCP",
-    "VPNs · Overlay Networks · P2P",
-    "MCP · ONNX"
+    "VPNs · Overlay Networks · P2P"
   ]
 }
