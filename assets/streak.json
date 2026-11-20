@@ -1,17 +1,17 @@
 {
   "mode": "daily",
-  "totalContributions": 837,
-  "firstContribution": "2023-11-17",
+  "totalContributions": 846,
+  "firstContribution": "2023-11-18",
   "currentStreak": {
-    "length": 6,
+    "length": 8,
     "start": "2026-11-13",
-    "end": "2026-11-18"
+    "end": "2026-11-20"
   },
   "longestStreak": {
     "length": 9,
     "start": "2026-08-13",
     "end": "2026-08-21"
   },
-  "fetched_at": "2026-11-19T13:31:51+00:00",
+  "fetched_at": "2026-11-20T13:13:37+00:00",
   "source": "https://streak-stats.demolab.com/?user=moezii&type=json&timezone=Europe%2FBerlin"
 }
